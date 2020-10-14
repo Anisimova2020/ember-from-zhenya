@@ -245,7 +245,7 @@ define("ember-by-zhenya/templates/application", ["exports"], function (exports) 
   Object.defineProperty(exports, "__esModule", {
     value: true
   });
-  exports.default = Ember.HTMLBars.template({ "id": "cW0SxeGE", "block": "{\"symbols\":[],\"statements\":[[6,\"div\"],[8],[0,\"Hello world\"],[9]],\"hasEval\":false}", "meta": { "moduleName": "ember-by-zhenya/templates/application.hbs" } });
+  exports.default = Ember.HTMLBars.template({ "id": "7APkD3uZ", "block": "{\"symbols\":[],\"statements\":[[6,\"div\"],[8],[0,\"Hello world\"],[9],[0,\"\\n\\n\"],[1,[20,\"outlet\"],false]],\"hasEval\":false}", "meta": { "moduleName": "ember-by-zhenya/templates/application.hbs" } });
 });
 define("ember-by-zhenya/templates/index", ["exports"], function (exports) {
   "use strict";
@@ -277,6 +277,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("ember-by-zhenya/app")["default"].create({"name":"ember-by-zhenya","version":"0.0.0+74eabe6c"});
+  require("ember-by-zhenya/app")["default"].create({"name":"ember-by-zhenya","version":"0.0.0+fa59f4e5"});
 }
 //# sourceMappingURL=ember-by-zhenya.map
